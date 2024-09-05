@@ -1,0 +1,100 @@
+/*
+  Josh's Custom CSS Reset
+  https://www.joshwcomeau.com/css/custom-css-reset/
+*/
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+}
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  overflow-wrap: break-word;
+}
+#root,
+#__next {
+  isolation: isolate;
+}
+
+p {
+  max-width: 66ch;
+}
+
+.wrapper {
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  place-items: center;
+  text-align: center;
+}
+
+.info {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.info-small {
+  justify-self: center;
+  font-size: 1rem;
+  font-size: 0.7vw;
+  font-size: clamp(0.4rem, 0.7vw, 1rem);
+}
+.info-medium {
+  font-size: clamp(0.8rem, 1.8vw, 2rem);
+}
+.info-large {
+  font-size: clamp(1.2rem, 2.2vw, 2.8rem);
+}
+.info-title {
+  text-transform: uppercase;
+  font-size: clamp(2rem, 3vw, 3.5rem);
+}
+.info-italic {
+  font-style: italic;
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: 1fr;
+  row-gap: 12px;
+}
+
+.select-button {
+  padding: 1ch 3ch;
+  border: none;
+  border-radius: 3ch;
+  font-size: 2.5rem;
+  font-size: clamp(1.2rem, 2.2vw, 2.8rem);
+}
+
+@media screen and (max-width: 600px) {
+  .wrapper {
+    grid-template-columns: 1fr;
+  }
+}
