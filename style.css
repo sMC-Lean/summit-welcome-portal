@@ -85,6 +85,12 @@ p {
   row-gap: 12px;
 }
 
+.select-button:hover,
+.select-button:active {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
 .select-button {
   padding: 1ch 3ch;
   border: none;
