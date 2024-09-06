@@ -136,9 +136,12 @@ footer {
 .modal {
   position: fixed;
   height: 100vh;
+  width: 95vw;
   top: 1rem;
-  left: 10%;
+  left: 2.5%;
+  padding: 2%;
   /* transform: translate(-50%, -50%); */
+  background-color: #f3f3f3;
   z-index: 1000;
   transition: all 0.5s;
   overflow: auto;
