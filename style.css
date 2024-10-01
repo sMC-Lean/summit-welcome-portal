@@ -160,6 +160,7 @@ footer {
 
   .info {
     grid-row: 1 / 2;
+    width: 95%;
   }
 
   .buttons {
@@ -168,7 +169,7 @@ footer {
   }
 
   .modal {
-    width: 90vw;
+    width: 95%;
   }
 
   footer {
