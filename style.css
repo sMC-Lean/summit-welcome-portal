@@ -136,7 +136,8 @@ footer {
 .modal {
   position: fixed;
   height: 100vh;
-  width: 95vw;
+  /* width: 95vw; */
+  width: 120ch;
   top: 1rem;
   left: 2.5%;
   padding: 2%;
@@ -145,6 +146,10 @@ footer {
   z-index: 1000;
   transition: all 0.5s;
   overflow: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 12px;
 }
 
 @media screen and (max-width: 600px) {
