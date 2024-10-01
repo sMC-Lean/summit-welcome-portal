@@ -177,6 +177,11 @@ footer {
     width: 95%;
   }
 
+  .modal img {
+    width: 150px;
+    height: 200px;
+  }
+
   footer {
     grid-row: 3 / 4;
   }
