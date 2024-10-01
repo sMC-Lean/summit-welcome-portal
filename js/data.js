@@ -120,7 +120,7 @@ const modalText = {
 <p>I highly recommend getting together a rough class plan, even if it is only in your head. The following can be helpful for that.</p>
 
 <div>
-	<img src="../images/class-structure-base.png" alt="" width="250" height="300"/>
+	<img src="./images/class-structure-base.png" alt="" width="250" height="300"/>
 	
 	<p>We are aiming to do the following:</p>
 	<p>Warm-up</p>
@@ -132,13 +132,13 @@ const modalText = {
 
 
 <div>
-	<img src="../images/class-structure-warmup.png" alt="" width="250" height="300"/>
+	<img src="./images/class-structure-warmup.png" alt="" width="250" height="300"/>
 	<p>warm-up:</p>
 	<p>variations of animal movements, lines (as in the adults’ classes), games or controlled wrestling games, sometimes light rolling, cartwheels, stretching, breakfalls, running, Lael’s Judo warmups are all great. You may have something in mind that ties into the drills you plan to run later, the kids may ask for a game, electric fence is often popular. Racing for the belts, tiger tails, wrestling from the knees for a pin. No wrong answers as long as it is fun, gets bodies moving and elevates the heart rate. This is a good time if you want to incorporate some strength exercises such as push ups or lunges. Try to make it age appropriate, for example in the little wombats we really only do animals, a game or an obstacle course.</p>
 </div>
 
 <div>
-	<img src="../images/class-structure-standup.png" alt="" width="250" height="300"/>
+	<img src="./images/class-structure-standup.png" alt="" width="250" height="300"/>
 	<p>Judo/wrestling/stand-up:</p>
 	<p>Each class we want to try to incorporate some stand up, consistency over time is the goal. From a self-defence standpoint this is pretty important, and the students love stand up. It is important to consider safety and experience levels. New students might just drill breakfalls and less kinetic throws, an example would be a controlled outside trip after some breakfall practice. More experienced students may be asked to work on judo throws that they know practice all of them with a partner of similar skill. You may teach a throw or trip, or a takedown. Try to consider and maintain safety for the students, going from standing up down to the floor comes with risks. You can use crashmats, or perhaps have newer students take turns doing the throw on a grey belt. The idea is not to get them competing against each other, but practicing some of their standup techniques with control. During this time you may choose to get the higher belts doing one for one, i.e. a bit more live, or even do some standup rounds if you feel that the skill level and their attention to their partners safety is adequate. You may also feel that the class is too large, inexperienced or un-focussed and omit the standup component altogether. In the wombat’s class this may be throwing the coaches, or each other if the students are experienced. Variations of the sumo game can also be fun.</p>
 </div>
@@ -147,20 +147,20 @@ const modalText = {
 
 
 <div>
-	<img src="../images/class-structure-ground.png" alt="" width="250" height="300"/>
+	<img src="./images/class-structure-ground.png" alt="" width="250" height="300"/>
 	<p>Ground Technique/wrestling:</p>
 	<p>Again, we are aiming for this at every class. You might teach something and have them practice it, you might do positional rounds, it may be stations. Lately I have been doing positional rounds to start, followed by a question or showing a technique to help with something I notice students struggling with, followed by more rounds after practicing that small technique. We try to highlight that this is practice, and as much as possible remove the competitive elements. Students need to feel safe to make mistakes. Highlight the need to respect and care for our partner’s, and as new students develop a higher level of awareness of their partner they are able to roll with more intent. It can be helpful to carefully pair new students and contain the drills to a position, you may set stations so there are less people rolling at once to allow you to watch more closely. Rolling is really important, however keeping students safe can be challenging as you can’t see everything. In very new cohorts you might do very positional rounds or just drilling. If you have all grey belts it may be open to certain submissions and 5 minute rounds. For the wombats this will likely be contained to one of the wrestling games with the coaches (spider kid or crazy horse), or maybe the students play hold the giant on each other if you judge that appropriate.</p>
 </div>
 
 
 <div>
-	<img src="../images/class-structure-question.png" alt="" width="250" height="300"/>
+	<img src="./images/class-structure-question.png" alt="" width="250" height="300"/>
 	<p>Question time:</p>
 	<p>Before game time we are aiming to allow time for questions. This can be questions about what we learned today, something that happened on the mats, something that happened at school, a situation that happened with a friend, self-defence in general. Maybe about an exercise. It can pay to be cautious with students you don’t know, occasionally kids can say something very surprising or even confronting. If you know the students you are working with then opening the floor to questions can be a great way to connect with them and they are usually very respectful and engaged. If you don’t then you may not feel too comfortable to allow a discussion without setting some guardrails. It may be that you ask students to contain questions to the techniques of the day or Jiu Jitsu in general. In the wombats you might ask more leading questions to keep them on topic. “did anybody feel…”</p>
 </div>
 
 <div>
-	<img src="../images/class-structure-game.png" alt="" width="250" height="300"/>
+	<img src="./images/class-structure-game.png" alt="" width="250" height="300"/>
 	<p>Game:</p>
 	<p>This is just meant to be fun, and does not have to be Jiu Jitsu related in any way. Line tag, crab royale, shipwreck, robots, scarecrow tag, zombies, electric fence. Make it age appropriate (for example magic turtles instead of zombies for the little wombats) and fun. Most of the time the attention span is wearing out on at least some students by game time. Try to keep it fairly simple, make sure they are aware of each other’s safety and have fun with them. This is a really good time for you to strengthen bonds with play and they will usually respond really well to having you fully involved. Leaves a great impression on them and hopefully they go home with a smile.
 	One thing we try not to do too much is put students on teams in groups against each other, and no games involve picking teams. Games like zombies or shipwreck put all students against all other students, and games like robots put students against coaches. We believe this is good for the relationships within the group.</p>
