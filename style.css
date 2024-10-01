@@ -146,10 +146,10 @@ footer {
   z-index: 1000;
   transition: all 0.5s;
   overflow: auto;
-  display: flex;
+  /* display: flex;
   flex-direction: column;
   align-items: center;
-  row-gap: 12px;
+  row-gap: 12px; */
 }
 
 @media screen and (max-width: 600px) {
@@ -165,6 +165,10 @@ footer {
   .buttons {
     grid-row: 2 / 3;
     padding: 4vh 0;
+  }
+
+  .modal {
+    width: 90vw;
   }
 
   footer {
