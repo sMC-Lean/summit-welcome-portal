@@ -120,7 +120,7 @@ const modalText = {
 <p>I highly recommend getting together a rough class plan, even if it is only in your head. The following can be helpful for that.</p>
 
 <div>
-	<img src="./images/class-structure-base.png" alt="" width="250" height="300"/>
+	<img src="./images/class-structure-base.png" alt="A pie chart representing an hour divided into times for different activities" width="250" height="300"/>
 	
 	<p>We are aiming to do the following:</p>
 	<p>Warm-up</p>
