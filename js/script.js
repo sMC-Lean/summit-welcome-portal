@@ -15,6 +15,7 @@ const overlay = document.querySelector(".overlay");
 buttonContainer.addEventListener("click", (e) => {
   const currentSelection = modalText[e.target.id];
   modalContent.innerHTML = currentSelection;
+  modal.scrollTop = 0;
   modal.classList.remove("hidden");
   overlay.classList.remove("hidden");
 });

@@ -1,9 +1,9 @@
 "use strict";
 
 const modalText = {
-  parents: `<p>Welcome to Summit BJJ. We understand that things on the mats may look weird, and this page is designed to give you an idea of what we believe, and what we hope your child will achieve here.</p>
+  parents: `<p><strong>Welcome to Summit BJJ</strong>. We understand that things on the mats may look weird, and this page is designed to give you an idea of what we believe, and what we hope your child will achieve here.</p>
 
-<p>"Self-defence is not a set of techniques, it’s a state of mind and it begins with the belief that you are worth defending." Rorion Gracie</p>
+<p><em>"Self-defence is not a set of techniques, it’s a state of mind and it begins with the belief that you are worth defending."</em> - Rorion Gracie</p>
 
 <p>When we bring our children to learn self-defence, it isn’t always obvious what that means in practice. </p>
 
@@ -13,7 +13,7 @@ const modalText = {
 
 <p>Learning must be broken down into small, understandable steps and it must be practiced consistently over time.</p>
 
-<p>If we want the kids to continuously come to training, and fail frequently while practicing repetitively, then TRAINING MUST ALWAYS BE FUN.</p>
+<p>If we want the kids to continuously come to training, and fail frequently while practicing repetitively, then <strong>training must always be fun</strong>.</p>
 
 <p>Because the student’s mental skills are the focus here, we tailor the training to promote those.</p>
 
@@ -41,28 +41,28 @@ const modalText = {
 
 
 	<div>
-		<p>The Kids training room is not competition.</p>
+		<p><strong>The Kids training room is not competition.</strong></p>
 			<p>The Gracie family believed that Jiu Jitsu for children should be play. They created what can only be described as the best stable of Jiu Jitsu competitors in history. We agree with this. The students should feel like this is fun. Some days it will be more challenging, and at some points a student may feel claustrophobic, but it should never feel like they are fighting for their survival.</p>
 		<p>Please do not coach the students from the sidelines, or cheer them on as if it is competitive.</p>
 	</div>
 
 
 <div>
-	<p>We are trying to steer the ship gradually.</p>
+	<p><strong>We are trying to steer the ship gradually.</strong></p>
 		<p>Unless we ask you to intervene with your child, or there is an urgent need, please do not try to correct their behaviour from the sidelines. Students have many things to think about and many voices can be distracting. We know the classes may look chaotic! Over time a student’s behaviour will gradually align with the group. Small children are allowed some chaos.</p>
 </div>
 
 <div>
-	<p>Consistency is Key.</p>
+	<p><strong>Consistency is Key.</strong></p>
 		<p>Please try to remember our approach. We ask that you don’t correct behaviours between rounds or after class. We encourage that you try to notice something positive and offer praise on that aspect. If they were kind, or helped another student. If they persisted, if they were very focussed. If they were having fun with their training partner.</p>
 </div>
 
 <div>
-	<p>Technique will come naturally to them.</p>
+	<p><strong>Technique will come naturally to them.</strong></p>
 		<p>If classes are fun, the learning is within their capability and students train consistently, they will get better at Jiu Jitsu very quickly. Children have amazing brains that learn very effectively. We try to let students experiment as much as possible and have fun trying to unravel the patterns of Jiu Jitsu. They will do whacky stuff, and some of it won’t work at all. Please do not try to correct the things that could be better. Encourage the cool and creative things, praise positive outcomes, but mainly praise effort and persistence.</p>
 </div>
 
-<p>If any of this doesn’t make sense, or if you or your child would like to ask any questions, please don’t hesitate to approach Brian or the coaching staff after class.</p>
+<p>If any of this doesn’t make sense, or if you or your child would like to ask any questions, <strong>please don’t hesitate to approach Brian or the coaching staff after class.</strong></p>
 `,
   students: `<p>Summit kid’s warrior code:</p>
 
@@ -92,27 +92,27 @@ const modalText = {
 
 <p>The Summit approach to kids’ classes is underpinned by the idea that we need kids to keep coming back, as many times as humanly possible. The more times they attend a class, the more small, incremental lessons we can try to pass on. It means that we don’t have to try to cram masses of theory in or correct every detail or behaviour at once, which is helpful as attention spans vary wildly.</p>
 
-<p>It is our belief that in order to get students to come to class, class has to be FUN. This means we try not to be too rigid, strict, and definitely not too competitive. The goal is to create confident, competent, healthy people in the long term which means we don’t have to fix everything right now. We can let the kids work on one little game or skill today and as long as they had fun, hopefully they will come back so we can build on it. </p>
+<p><strong>It is our belief that in order to get students to come to class, class has to be FUN.</strong> This means we try not to be too rigid, strict, and definitely not too competitive. The goal is to create confident, competent, healthy people in the long term which means we don’t have to fix everything right now. We can let the kids work on one little game or skill today and as long as they had fun, hopefully they will come back so we can build on it. </p>
 <p>Try to remember that for each student that next challenge will be different, and for some students it might just be getting on the mats for part of a class.</p>
 
 
-<p>Basic Principles:</p>
+<p><strong>Basic Principles:</strong></p>
 
 <p>Whenever we are coaching a kids class our top goals are:</p>
 
-<p>Have Fun! It is meant to be fun, both for you and the kids.</p>
+<p><strong>Have Fun!</strong> It is meant to be fun, both for you and the kids.</p>
 
-<p>Keep students as safe as possible. Stick to exercises, drills or games that you are comfortable with especially when you are unsure of the student’s ability. There are times to experiment with new games or techniques but you might choose to wait until you have extra coaches or you have a more experienced cohort of students. People can be unpredictable, so this can be difficult. </p>
+<p><strong>Keep students as safe as possible.</strong> Stick to exercises, drills or games that you are comfortable with especially when you are unsure of the student’s ability. There are times to experiment with new games or techniques but you might choose to wait until you have extra coaches or you have a more experienced cohort of students. People can be unpredictable, so this can be difficult. </p>
 
-<p>Try to stay patient. Some days the most you can hope for is that student will come back again, and for some students and stages that is a huge victory.</p>
+<p><strong>Try to stay patient.</strong> Some days the most you can hope for is that student will come back again, and for some students and stages that is a huge victory.</p>
 
-<p>Use “pull” teaching (positive reinforcement) as much as possible. There are times where we need to draw attention to a behaviour or address an issue, but generally we want to encourage and praise any positive event that we would like to see repeated, and just ignore a behaviour that we would like to see stop (rather than criticise). This is sometimes easier said than done, but should always be the goal.</p>
+<p><strong>Use “pull” teaching (positive reinforcement) as much as possible.</strong> There are times where we need to draw attention to a behaviour or address an issue, but generally we want to encourage and praise any positive event that we would like to see repeated, and just ignore a behaviour that we would like to see stop (rather than criticise). This is sometimes easier said than done, but should always be the goal.</p>
 
-<p>Try to be Flexible. Some students are competitive and will take have no issues throwing themselves into rolling on day one. Others might only watch or not want to participate in certain activities, try not to be too rigid.</p>
+<p><strong>Try to be Flexible.</strong> Some students are competitive and will have no issues throwing themselves into rolling on day one. Others might only watch or not want to participate in certain activities; try not to be too rigid.</p>
 
-<p>Use, and trust, YOUR best Judgement. Everyone has different experiences and styles; no two classes are the same. Varied learning is a huge strength as long as we are consistent in the way we care for the student’s wellbeing and apply similar philosophy in our approach.</p>
+<p><strong>Use, and trust, YOUR best Judgement.</strong> Everyone has different experiences and styles; no two classes are the same. Varied learning is a huge strength as long as we are consistent in the way we care for the student’s wellbeing and apply similar philosophy in our approach.</p>
 
-<p>Basic structure:</p>
+<p><strong>Basic structure:</strong></p>
 
 <p>there are no hard and fast rules about the activities or times breakdown of a class, but we do have a general structure that we try to aim for most of the time. This may not be achieved, and the needs and wants of the students, or your experience may mean that it is not observed closely or at all. You might choose to move things around, do them at different times, change or delete portions either before-hand, or in response to a question from a student. All of which is OK.</p>
 
@@ -122,7 +122,7 @@ const modalText = {
 <div>
 	<img src="./images/class-structure-base.png" alt="A pie chart representing an hour divided into times for different activities" width="250" height="300"/>
 	
-	<p>We are aiming to do the following:</p>
+	<p><strong>We are aiming to do the following:</strong></p>
 	<p>Warm-up</p>
 	<p>Throwing/Stand-up</p>
 	<p>Ground Technique/wrestling</p>
@@ -133,13 +133,13 @@ const modalText = {
 
 <div>
 	<img src="./images/class-structure-warmup.png" alt="A pie chart representing an hour with the first 10 minutes highlighted" width="250" height="300"/>
-	<p>warm-up:</p>
+	<p><strong>Warm-up:</strong></p>
 	<p>variations of animal movements, lines (as in the adults’ classes), games or controlled wrestling games, sometimes light rolling, cartwheels, stretching, breakfalls, running, Lael’s Judo warmups are all great. You may have something in mind that ties into the drills you plan to run later, the kids may ask for a game, electric fence is often popular. Racing for the belts, tiger tails, wrestling from the knees for a pin. No wrong answers as long as it is fun, gets bodies moving and elevates the heart rate. This is a good time if you want to incorporate some strength exercises such as push ups or lunges. Try to make it age appropriate, for example in the little wombats we really only do animals, a game or an obstacle course.</p>
 </div>
 
 <div>
 	<img src="./images/class-structure-standup.png" alt="A pie chart representing an hour with minutes 10 to 30 highlighted" width="250" height="300"/>
-	<p>Judo/wrestling/stand-up:</p>
+	<p><strong>Judo/wrestling/stand-up:</strong></p>
 	<p>Each class we want to try to incorporate some stand up, consistency over time is the goal. From a self-defence standpoint this is pretty important, and the students love stand up. It is important to consider safety and experience levels. New students might just drill breakfalls and less kinetic throws, an example would be a controlled outside trip after some breakfall practice. More experienced students may be asked to work on judo throws that they know practice all of them with a partner of similar skill. You may teach a throw or trip, or a takedown. Try to consider and maintain safety for the students, going from standing up down to the floor comes with risks. You can use crashmats, or perhaps have newer students take turns doing the throw on a grey belt. The idea is not to get them competing against each other, but practicing some of their standup techniques with control. During this time you may choose to get the higher belts doing one for one, i.e. a bit more live, or even do some standup rounds if you feel that the skill level and their attention to their partners safety is adequate. You may also feel that the class is too large, inexperienced or un-focussed and omit the standup component altogether. In the wombat’s class this may be throwing the coaches, or each other if the students are experienced. Variations of the sumo game can also be fun.</p>
 </div>
 
@@ -148,30 +148,30 @@ const modalText = {
 
 <div>
 	<img src="./images/class-structure-ground.png" alt="A pie chart representing an hour with minutes 30 to 50 highlighted" width="250" height="300"/>
-	<p>Ground Technique/wrestling:</p>
+	<p><strong>Ground Technique/wrestling:</strong></p>
 	<p>Again, we are aiming for this at every class. You might teach something and have them practice it, you might do positional rounds, it may be stations. Lately I have been doing positional rounds to start, followed by a question or showing a technique to help with something I notice students struggling with, followed by more rounds after practicing that small technique. We try to highlight that this is practice, and as much as possible remove the competitive elements. Students need to feel safe to make mistakes. Highlight the need to respect and care for our partner’s, and as new students develop a higher level of awareness of their partner they are able to roll with more intent. It can be helpful to carefully pair new students and contain the drills to a position, you may set stations so there are less people rolling at once to allow you to watch more closely. Rolling is really important, however keeping students safe can be challenging as you can’t see everything. In very new cohorts you might do very positional rounds or just drilling. If you have all grey belts it may be open to certain submissions and 5 minute rounds. For the wombats this will likely be contained to one of the wrestling games with the coaches (spider kid or crazy horse), or maybe the students play hold the giant on each other if you judge that appropriate.</p>
 </div>
 
 
 <div>
 	<img src="./images/class-structure-question.png" alt="A pie chart representing an hour with minutes 50 to 55 highlighted" width="250" height="300"/>
-	<p>Question time:</p>
+	<p><strong>Question time:</strong></p>
 	<p>Before game time we are aiming to allow time for questions. This can be questions about what we learned today, something that happened on the mats, something that happened at school, a situation that happened with a friend, self-defence in general. Maybe about an exercise. It can pay to be cautious with students you don’t know, occasionally kids can say something very surprising or even confronting. If you know the students you are working with then opening the floor to questions can be a great way to connect with them and they are usually very respectful and engaged. If you don’t then you may not feel too comfortable to allow a discussion without setting some guardrails. It may be that you ask students to contain questions to the techniques of the day or Jiu Jitsu in general. In the wombats you might ask more leading questions to keep them on topic. “did anybody feel…”</p>
 </div>
 
 <div>
 	<img src="./images/class-structure-game.png" alt="A pie chart representing an hour with minutes 55 to 60 highlighted" width="250" height="300"/>
-	<p>Game:</p>
+	<p><strong>Game:</strong></p>
 	<p>This is just meant to be fun, and does not have to be Jiu Jitsu related in any way. Line tag, crab royale, shipwreck, robots, scarecrow tag, zombies, electric fence. Make it age appropriate (for example magic turtles instead of zombies for the little wombats) and fun. Most of the time the attention span is wearing out on at least some students by game time. Try to keep it fairly simple, make sure they are aware of each other’s safety and have fun with them. This is a really good time for you to strengthen bonds with play and they will usually respond really well to having you fully involved. Leaves a great impression on them and hopefully they go home with a smile.
 	One thing we try not to do too much is put students on teams in groups against each other, and no games involve picking teams. Games like zombies or shipwreck put all students against all other students, and games like robots put students against coaches. We believe this is good for the relationships within the group.</p>
 	<p>Question time and game time are closely related and pretty flexible, they are reasonably dynamic and you will probably move them around a lot. If you get no questions you may have extra game time, which is usually not too challenging. If you have an extended question you can choose to run a short game. The game is a good reward for the students, so we try not to skip it, but these last two areas are subject to a lot of variation.</p>
 </div>
 
-
+<hr>
 
 <div>
-	<p>Tips:
-	<p>These aren’t gospel. Everyone has different experience and likes to do things differently. I found starting to teach a bit daunting, and so these are just some strategies that I have developed in my time in schools, which some people may find helpful.</p>
+	<p>Tips:</p>
+	<p><strong>These aren’t gospel. Everyone has different experience and likes to do things differently. I found starting to teach a bit daunting, and so these are just some strategies that I have developed in my time in schools, which some people may find helpful.</strong></p>
 	
 	<p>Be prepared to make mistakes, it’s the only way we learn. Not every class is going to be what you wanted to deliver. If you are honest and open with students they tend to be very forgiving, as long as they trust you they will accept apologies or explanations or mistakes. Just do your best.</p>
 	
@@ -225,7 +225,7 @@ const modalText = {
 </div>
 
 
-<p>Students are watching what we do to see if we are legit. We can say whatever we want but if our actions are not congruous then we lose credibility. Try to be authentic with the students. Be honest. They are small humans with personalities and they want to have an equitable relationship just like anyone else we would deal with. We need to model the behaviour and activity we want them to have, because that is the single most powerful tool we have in our arsenal.</p>
+<p>Students are watching what we do to see if we are legit. We can say whatever we want but if our actions are not congruous then we lose credibility. Try to be authentic with the students. Be honest. They are small humans with personalities and they want to have an equitable relationship just like anyone else we would deal with. <strong>We need to model the behaviour and activity we want them to have, because that is the single most powerful tool we have in our arsenal.</strong></p>
 `,
 };
 
